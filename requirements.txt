@@ -1,0 +1,12 @@
+python-levenshtein
+torch
+visdom
+wget
+librosa
+tqdm
+absl
+tensorflow
+pyroomacoustics
+matplotlib
+pandas
+pesq
